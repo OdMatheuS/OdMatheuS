@@ -15,7 +15,6 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffda4b&color=316087)
 ![Lua](http://img.shields.io/badge/-Lua-3776AB?style=flat-square&logo=lua&logoColor=01007f&color=4e4f4e)
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Profile-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/matheus-nagot-a92868161)](https://linkedin.com/in/matheus-nagot-a92868161) 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OdMatheuS&repo=my-collection-studies-elixir&theme=gruvbox)](https://github.com/OdMatheuS/my-collection-studies-elixir)
