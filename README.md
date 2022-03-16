@@ -1,8 +1,6 @@
 <h1>Hi there!!</h1>
 <img src="https://media.giphy.com/media/z9YISRsmFchUeUMzbM/giphy.gif" width="80" height="140"/>
 
-
-
 - 🔭 I’m currently working on Front-End software development.
 - 🌱 Now I’m learning Functional Programming with Elixir.
 - ⚡ Fun fact: I like books, podcasts, Vim and customizing my O.S 🐧, "btw i use Arch", with i3WM ❤️ & mechanical keyboard enthusiast.
@@ -20,4 +18,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Profile-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/matheus-nagot-a92868161)](https://linkedin.com/in/matheus-nagot-a92868161) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OdMatheuS&repo=my-collection-studies-elixir&theme=gruvbox)](https://github.com/OdMatheuS/my-collection-studies-elixir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OdMatheuS&repo=my-collection-studies-elixir1&theme=gruvbox)](https://github.com/OdMatheuS/my-collection-studies-elixir)
