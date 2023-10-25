@@ -16,4 +16,4 @@
 ![Lua](http://img.shields.io/badge/-Lua-3776AB?style=flat-square&logo=lua&logoColor=01007f&color=4e4f4e)
  <a href="https://racket-lang.org/"><img height="20" src="https://racket-lang.org/img/racket-logo.svg" title="Racket"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Profile-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/matheus-nagot-a92868161)](https://linkedin.com/in/matheus-nagot-a92868161) 
+
