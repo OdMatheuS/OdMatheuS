@@ -23,3 +23,4 @@
 ![Lua](http://img.shields.io/badge/-Lua-3776AB?style=for-the-badge&logo=lua&logoColor=01007f&color=4e4f4e)
 ![Vim](http://img.shields.io/badge/-Vim-3776AB?style=for-the-badge&logo=vim&logoColor=ffffff&color=005F21)
 <a href="https://racket-lang.org/"><img height="20" src="https://racket-lang.org/img/racket-logo.svg" title="Racket"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdMatheuS&theme=blue-green"/>
