@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/z9YISRsmFchUeUMzbM/giphy.gif" width="80" height="140"/>
 
 - 🔭 I’m currently working on Front-End & Back-End software development.
-- 🌱 Now I’m learning Functional Programming with Elixir.
+- 🌱 Now I’m learning Functional Programming with Scala.
 - ⚡ Fun facts: I like books, podcasts, Vim & 🐧 **"btw i use Arch"** with **i3WM** ❤️ & mechanical keyboard enthusiast.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
