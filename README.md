@@ -22,4 +22,5 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Lua](http://img.shields.io/badge/-Lua-3776AB?style=for-the-badge&logo=lua&logoColor=01007f&color=4e4f4e)
 ![Vim](http://img.shields.io/badge/-Vim-3776AB?style=for-the-badge&logo=vim&logoColor=ffffff&color=005F21)
+![Scala](http://img.shields.io/badge/-Scala-3776AB?style=for-the-badge&logo=scala&logoColor=c30010&color=black)
 <a href="https://racket-lang.org/"><img height="20" src="https://racket-lang.org/img/racket-logo.svg" title="Racket"></a>
