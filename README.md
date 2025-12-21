@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/z9YISRsmFchUeUMzbM/giphy.gif" width="80" height="110"/>
 
 - 🔭 I’m currently working on Front-End & Back-End software development.
-- 🌱 Now I’m learning Functional Programming with Scala.
+- 🌱 Now I’m learning Functional Programming with **Scala**.
 - ⚡ Fun facts: I like books, podcasts, Vim & 🐧 **"btw i use Arch"** with **i3WM** ❤️ & mechanical keyboard enthusiast.
 
 #### Markup Languages
