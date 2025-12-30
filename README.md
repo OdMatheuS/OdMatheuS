@@ -5,8 +5,6 @@
 - 🌱 Now I’m learning Functional Programming with **Scala**.
 - ⚡ Fun facts: I like books, podcasts, Vim & 🐧 **"btw i use Arch"** with **i3WM** ❤️ & mechanical keyboard enthusiast.
 
-
-
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
