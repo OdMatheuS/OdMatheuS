@@ -52,10 +52,3 @@
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 <a href="https://duckduckgo.com/"><img src="https://spreadprivacy.com/content/images/2025/07/DuckDuckGo-Default-3.png" height="28"></a>
 <a href="https://racket-lang.org/"><img height="28" src="https://racket-lang.org/img/racket-logo.svg" title="Racket"></a>
-
-
-
-
-
-
-
